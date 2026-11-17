@@ -5,7 +5,7 @@
 **Department:** B.Tech CSE-AI  
 **Academic Year:** 2026–2030  
 **Semester:** 2  
-**Faculty:** Amirtha S  
+**Faculty:** Antony Joseph Rajan
 
 ## Project
 AI-Powered Student Performance Analytics System
