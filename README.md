@@ -6,7 +6,7 @@
 **Register Number:** 1972260080  
 **Department:** B.Tech CSE-AI  
 **Academic Year / Semester:** 2026–2030 / 2  
-**Faculty:** Amirtha S
+**Faculty:** Antony joseph Rajan
 
 ## Project overview
 A proposed cloud-based student performance analytics application. It organizes authorized academic records, provides dashboards, generates reports and uses an AI/ML module to estimate academic risk. Predictions are decision-support signals and must not replace faculty judgement.
